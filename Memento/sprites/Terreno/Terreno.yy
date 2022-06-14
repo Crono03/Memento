@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 127,
   "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_bottom": 95,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 128,
+  "height": 96,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9d7a069b-133f-42f2-8975-d62f1d736eb0","path":"sprites/Floor/Floor.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9d7a069b-133f-42f2-8975-d62f1d736eb0","path":"sprites/Floor/Floor.yy",},"LayerId":{"name":"f8af5754-7311-4b39-b729-d3e4bf285b00","path":"sprites/Floor/Floor.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Floor","path":"sprites/Floor/Floor.yy",},"resourceVersion":"1.0","name":"9d7a069b-133f-42f2-8975-d62f1d736eb0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"49f4653a-b5e8-47f5-9c53-c9aba35af729","path":"sprites/Terreno/Terreno.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"49f4653a-b5e8-47f5-9c53-c9aba35af729","path":"sprites/Terreno/Terreno.yy",},"LayerId":{"name":"8ea28df8-347d-4d18-b46f-d0c35b635adb","path":"sprites/Terreno/Terreno.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Terreno","path":"sprites/Terreno/Terreno.yy",},"resourceVersion":"1.0","name":"49f4653a-b5e8-47f5-9c53-c9aba35af729","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Floor","path":"sprites/Floor/Floor.yy",},
+    "spriteId": {"name":"Terreno","path":"sprites/Terreno/Terreno.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ea34e936-679c-43bc-a599-0ec5c570e35f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d7a069b-133f-42f2-8975-d62f1d736eb0","path":"sprites/Floor/Floor.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ff3e32e1-3c53-47bb-9840-9fcbf03fab0b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"49f4653a-b5e8-47f5-9c53-c9aba35af729","path":"sprites/Terreno/Terreno.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Floor","path":"sprites/Floor/Floor.yy",},
+    "parent": {"name":"Terreno","path":"sprites/Terreno/Terreno.yy",},
     "resourceVersion": "1.3",
-    "name": "Floor",
+    "name": "Terreno",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f8af5754-7311-4b39-b729-d3e4bf285b00","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8ea28df8-347d-4d18-b46f-d0c35b635adb","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Floor",
+  "name": "Terreno",
   "tags": [],
   "resourceType": "GMSprite",
 }
