@@ -1,10 +1,19 @@
 {
   "resources": [
+    {"id":{"name":"Rm_in","path":"rooms/Rm_in/Rm_in.yy",},"order":1,},
+    {"id":{"name":"MainFont","path":"fonts/MainFont/MainFont.yy",},"order":0,},
+    {"id":{"name":"obj_textManager","path":"objects/obj_textManager/obj_textManager.yy",},"order":4,},
     {"id":{"name":"dbottra","path":"tilesets/dbottra/dbottra.yy",},"order":0,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"obj_itemManager","path":"objects/obj_itemManager/obj_itemManager.yy",},"order":2,},
     {"id":{"name":"World","path":"objects/World/World.yy",},"order":1,},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},"order":3,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"AddItem","path":"scripts/AddItem/AddItem.yy",},"order":0,},
+    {"id":{"name":"obj_groundItem","path":"objects/obj_groundItem/obj_groundItem.yy",},"order":3,},
+    {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},"order":6,},
     {"id":{"name":"Terreno","path":"sprites/Terreno/Terreno.yy",},"order":0,},
+    {"id":{"name":"spr_burger","path":"sprites/spr_burger/spr_burger.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -34,6 +43,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Rm_in","path":"rooms/Rm_in/Rm_in.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
