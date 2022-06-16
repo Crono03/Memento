@@ -12,7 +12,8 @@ global.item_list=
 	burger: new create_item(
 	"Burger"
 	,"Mangialo"
-	,spr_burger)
+	,spr_burger 
+	)
 	
 	
 }
