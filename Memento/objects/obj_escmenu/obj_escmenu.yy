@@ -27,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_text",
+  "name": "obj_escmenu",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -80,7 +80,7 @@
     ],
     "highlightColour": 1728023040,
     "highlightStyle": 0,
-    "enabled": false,
+    "enabled": true,
     "tileMode": [
       0,
       0,
@@ -93,8 +93,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Sistema di dialoghi",
+    "path": "folders/Sistema di dialoghi.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_textbox",
