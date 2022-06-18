@@ -1,3 +1,4 @@
+//Variabili
 vel=1;
 
 //comandi
