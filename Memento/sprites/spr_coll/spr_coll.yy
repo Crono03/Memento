@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_coll","path":"sprites/spr_coll/spr_coll.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_coll",
     "tags": [],
     "resourceType": "GMSequence",

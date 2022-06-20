@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Terreno","path":"sprites/Terreno/Terreno.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Terreno",
     "tags": [],
     "resourceType": "GMSequence",

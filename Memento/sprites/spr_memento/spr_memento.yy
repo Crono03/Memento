@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_memento","path":"sprites/spr_memento/spr_memento.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_memento",
     "tags": [],
     "resourceType": "GMSequence",
