@@ -1,8 +1,8 @@
 //Camminata
 up=keyboard_check(ord("W"));
-left=keyboard_check(ord("A"))
-down=keyboard_check(ord("S"))
-right=keyboard_check(ord("D"))
+left=keyboard_check(ord("A"));
+down=keyboard_check(ord("S"));
+right=keyboard_check(ord("D"));
 
 var tile=layer_get_id("Tiles_Collision");
 var map=layer_tilemap_get_id(tile);
